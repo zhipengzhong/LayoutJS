@@ -1,0 +1,16 @@
+{
+  "datas": [
+    {
+      "_className": "Q.Node",
+      "json": {
+        "location": {
+          "x": 438.5776824034334,
+          "y": 402.7103004291845
+        },
+        "image": "Q-exchanger"
+      },
+      "_refId": 1
+    }
+  ],
+  "version": "1.6"
+}
